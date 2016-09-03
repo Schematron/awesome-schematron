@@ -14,7 +14,7 @@ Inspired by the sheer number of other 'awesome' lists out there.
 
 ## Specifications
 
- - [ISO Schematron 2nd Edition](https://webstore.iec.ch/publication/24049) - ISO/IEC 19757-3:2016 - Information technology - Document Schema Definition Languages (DSDL) - Part 3: Rule-based validation - Schematron. Available to buy.
+ - [ISO Schematron 2nd Edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/c055982_ISO_IEC_19757-3_2016.zip) - ISO/IEC 19757-3:2016 - Information technology - Document Schema Definition Languages (DSDL) - Part 3: Rule-based validation - Schematron. Freely available.
  - [ISO Schematron 1st Edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html) - ISO/IEC 19757-3:2006 - Information technology -- Document Schema Definition Language (DSDL) -- Part 3: Rule-based validation -- Schematron. Freely available.
 
 ## Reference material
