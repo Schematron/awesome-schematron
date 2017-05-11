@@ -24,7 +24,7 @@ Inspired by the sheer number of other 'awesome' lists out there.
 
 ## Software
 
- - ???
+ - [vefa-validator](https://github.com/difi/vefa-validator) - Generic validator written in Java originally created for use within eProcurement. Licenced under EUPL 1.1 and MPL 2.0. Created and maintained by Norwegian Agency for Public Management and eGovernment (DIFI).  
 
 ## Applications
 
