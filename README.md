@@ -21,13 +21,35 @@ Inspired by the sheer number of other 'awesome' lists out there.
 
 ## Reference material
 
+ - Hedler, Marko, Manuel Montero Pineda, and Nico Kutscherauer. “[Schematron: Effiziente Business Rules für
+   XML-Dokumente.](https://schematron.info)” Heidelberg: dpunkt, 2011.
+ - Jelliffe, Rick. “[The Schematron Assertion Language
+   1.6](https://web.archive.org/web/20061230150144/http://xml.ascc.net:80/resource/schematron/Schematron2000.html)”
+   Online, October 1, 2002.
+ - Maus, David. “[Ex-Post Rule Match Selection: A Novel Approach to XSLT-Based Schematron
+   Validation.](https://archive.xmlprague.cz/2019/files/xmlprague-2019-proceedings.pdf#page=79)” In XML Prague 2019
+   Conference Proceedings, 57–65. Prague, Czech Republic, 2019.
+ - Maus, David. “[An Introduction to Schematron and Schematron QuickFix.](https://doi.org/10.5281/zenodo.3429706)”
+   Presented at the TEI Conference and Member’s Meeting 2019 (TEI 2019), Graz, Austria, 16–22 September 2019, Graz,
+   September 16, 2019.
+ - Maus, David. “[Schematron Report Customization.](https://www.youtube.com/watch?v=V5M_mRLoy8s)” Webinar presented at
+   the Markup UK Solidarity Edition, June 10, 2020.
+ - Maus, David. “[What’s in a Schematron?](https://markupuk.org/webhelp/index.html#ar02.html)” In Markup UK 2021
+   Proceedings. Online, 2021.
+ - Nadolu, Octavian, and Nico Kutscherauer. “[Schematron
+   QuickFix](https://archive.xmlprague.cz/2016/files/xmlprague-2016-proceedings.pdf#page=93)” In XML Prague 2016
+   Conference Proceedings, 81–98. Prague, Czech Republic, 2016.
+ - Nadolu, Octavian. “[Taking Schematron QuickFix To The Next
+   Level.](https://markupuk.org/2019/webhelp/index.html#ar09.html)” In Markup UK 2019 Proceedings, 125–34. London, UK,
+   2019.
+
  - *Add your Schematron book, paper, or presentation here*
 
 ## Software
 
 Implementations of Schematron:
 
- - [SchXslt](https://github.com/dmj/schxslt) - An XSLT-based Schematron processor.
+ - [SchXslt](https://github.com/schxslt/schxslt) - An XSLT-based Schematron processor.
  - [ml-schematron](https://github.com/ndw/ML-Schematron) - A `schematron.xqy` module that will allow you to perform Schematron validation with MarkLogic Server 
  - [ph-schematron](https://github.com/phax/ph-schematron) - Java library to validate XML documents according to Schematron rules, using 2 different engines - additionally you can validate Schematron itself. Ships with Maven plugins and an Ant task (since 4.3.0).
  - [schematron](https://github.com/Schematron/schematron) - "skeleton" XSLT implementation of ISO Schematron. No longer maintained.
