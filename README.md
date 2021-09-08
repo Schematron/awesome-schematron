@@ -52,6 +52,8 @@ Implementations of Schematron:
  - [SchXslt](https://github.com/schxslt/schxslt) - An XSLT-based Schematron processor.
  - [ml-schematron](https://github.com/ndw/ML-Schematron) - A `schematron.xqy` module that will allow you to perform Schematron validation with MarkLogic Server 
  - [ph-schematron](https://github.com/phax/ph-schematron) - Java library to validate XML documents according to Schematron rules, using 2 different engines - additionally you can validate Schematron itself. Ships with Maven plugins and an Ant task (since 4.3.0).
+ - [schematron-basex](https://github.com/Schematron/schematron-basex) - XQuery module to use ISO Schematron in BaseX.
+ - [schematron-exist](https://github.com/Schematron/schematron-exist) - XQuery module to use ISO Schematron in eXist.
  - [schematron](https://github.com/Schematron/schematron) - "skeleton" XSLT implementation of ISO Schematron. No longer maintained.
  - *Add your Schematron software here*
 
