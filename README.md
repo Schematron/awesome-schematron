@@ -15,8 +15,8 @@ Inspired by the sheer number of other 'awesome' lists out there.
 ## Specifications
 
  - [ISO Schematron 3rd Edition](https://www.iso.org/standard/74515.html) - ISO/IEC 19757-3:2020 - Information technology - Document Schema Definition Languages (DSDL) - Part 3: Rule-based validation using Schematron. For sale from ISO or a standards reseller near you.
- - [ISO Schematron 2nd Edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/c055982_ISO_IEC_19757-3_2016.zip) - ISO/IEC 19757-3:2016 - Information technology - Document Schema Definition Languages (DSDL) - Part 3: Rule-based validation - Schematron. Freely available.
- - [ISO Schematron 1st Edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html) - ISO/IEC 19757-3:2006 - Information technology -- Document Schema Definition Language (DSDL) -- Part 3: Rule-based validation -- Schematron. Freely available.
+ - [ISO Schematron 2nd Edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/c055982_ISO_IEC_19757-3_2016.zip) - ISO/IEC 19757-3:2016 - Information technology - Document Schema Definition Languages (DSDL) - Part 3: Rule-based validation - Schematron. No longer available.
+ - [ISO Schematron 1st Edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html) - ISO/IEC 19757-3:2006 - Information technology -- Document Schema Definition Language (DSDL) -- Part 3: Rule-based validation -- Schematron. No longer available.
  - [Schematron Quick Fixes](http://schematron-quickfix.github.io/sqf) -- Schematron Quick Fixes Specification
 
 ## Reference material
