@@ -21,11 +21,22 @@ Inspired by the sheer number of other 'awesome' lists out there.
 
 ## Reference material
 
+### Books
+
+ - Siegel, Erik. “[Schematron: A language for validating XML](https://xmlpress.net/publications/schematron/)” Denver, CO, USA: XML Press, 2022.
  - Hedler, Marko, Manuel Montero Pineda, and Nico Kutscherauer. “[Schematron: Effiziente Business Rules für
    XML-Dokumente.](https://schematron.info)” Heidelberg: dpunkt, 2011.
  - Jelliffe, Rick. “[The Schematron Assertion Language
    1.6](https://web.archive.org/web/20061230150144/http://xml.ascc.net:80/resource/schematron/Schematron2000.html)”
    Online, October 1, 2002.
+   
+ ### Presentations
+ 
+ - Bormans, Geert. “[Customisation of Akoma Ntoso using Schematron.](https://www.balisage.net/Proceedings/vol27/html/Bormans01/BalisageVol27-Bormans01.html)” Presented at Balisage: The Markup Conference 2022, Washington, DC, August 1 - 5, 2022. In Proceedings of Balisage: The Markup Conference 2022. Balisage Series on Markup Technologies, vol. 27 (2022). https://doi.org/10.4242/BalisageVol27.Bormans01.
+ - Maus, David. “[Overview of Implementations](https://archive.xmlprague.cz/2022/files/presentations/Schematron.pdf)” In “[Schematron Users Meetup](https://www.xmlprague.cz/day3-2022/#sch)” at XML Prague 2022, Prague, Czech Republic, 2022.
+  - Sigel, Erik. “[Schematron Query Language Binding](https://archive.xmlprague.cz/2022/files/presentations/schematron-qlb.pdf)” In “[Schematron Users Meetup](https://www.xmlprague.cz/day3-2022/#sch)” at XML Prague 2022, Prague, Czech Republic, 2022.
+  - Holman, G. Ken. “[Non-programmers’ support for Schematron assertions](https://archive.xmlprague.cz/2022/files/presentations/Schematron%20Users%20Meetup%202022-06-11%2020220521-1310z.pdf)” In “[Schematron Users Meetup](https://www.xmlprague.cz/day3-2022/#sch)” at XML Prague 2022, Prague, Czech Republic, 2022.
+ - Graham Tony, David Maus, Andrew Sales and Erik Siegel. “[Schematron State of the Union](https://www.xmlprague.cz/day2-2022/#sch)”  XML Prague 2022, Prague, Czech Republic, 2022.
  - Maus, David. “[Ex-Post Rule Match Selection: A Novel Approach to XSLT-Based Schematron
    Validation.](https://archive.xmlprague.cz/2019/files/xmlprague-2019-proceedings.pdf#page=79)” In XML Prague 2019
    Conference Proceedings, 57–65. Prague, Czech Republic, 2019.
