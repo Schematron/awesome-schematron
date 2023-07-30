@@ -68,6 +68,7 @@ Implementations of Schematron:
  - [schematron-basex](https://github.com/Schematron/schematron-basex) - XQuery module to use ISO Schematron in BaseX.
  - [schematron-exist](https://github.com/Schematron/schematron-exist) - XQuery module to use ISO Schematron in eXist.
  - [schematron](https://github.com/Schematron/schematron) - "skeleton" XSLT implementation of ISO Schematron. No longer maintained.
+ - [XQS](https://github.com/AndrewSales/XQS) - native XQuery implementation of ISO Schematron. _Pre-release._
  - *Add your Schematron software here*
 
 ## Applications
