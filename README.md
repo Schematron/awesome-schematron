@@ -53,6 +53,8 @@ Inspired by the sheer number of other 'awesome' lists out there.
  - Nadolu, Octavian. “[Taking Schematron QuickFix To The Next
    Level.](https://markupuk.org/2019/webhelp/index.html#ar09.html)” In Markup UK 2019 Proceedings, 125–34. London, UK,
    2019.
+ - Sales, Andrew. "[XQS: A Native XQuery Schematron Implementation
+](https://markupuk.org/2023/webhelp/index.html#ar11.html)" In Markup UK 2023 Proceedings, 146-56. London, UK, 2023.
 
  - *Add your Schematron book, paper, or presentation here*
 
