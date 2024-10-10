@@ -69,6 +69,7 @@ Implementations of Schematron:
  - [schematron-exist](https://github.com/Schematron/schematron-exist) - XQuery module to use ISO Schematron in eXist.
  - [schematron](https://github.com/Schematron/schematron) - "skeleton" XSLT implementation of ISO Schematron. No longer maintained.
  - [XQS](https://github.com/AndrewSales/XQS) - native XQuery implementation of ISO Schematron. _Pre-release._
+ - [pyschematron](https://github.com/robbert-harms/pyschematron) - library package for Schematron validation in Python.
  - *Add your Schematron software here*
 
 ## Applications
