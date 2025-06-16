@@ -32,8 +32,8 @@ Inspired by the sheer number of other 'awesome' lists out there.
    
  ### Presentations
  
- - Sales, Andrew. "[XQS: A Native XQuery Schematron Implementation
-](https://markupuk.org/2023/webhelp/index.html#ar11.html)" In Markup UK 2023 Proceedings, 146-56. London, UK, 2023.
+ - Sales, Andrew. "[What's New in Schematron 4](https://andrewsales.com/schematron4/index.html)" In Schematron Users Meetup at Markup UK 2025. London, UK, 2025.
+ - Sales, Andrew. "[XQS: A Native XQuery Schematron Implementation](https://markupuk.org/2023/webhelp/index.html#ar11.html)" In Markup UK 2023 Proceedings, 146-56. London, UK, 2023.
  - Bormans, Geert. “[Customisation of Akoma Ntoso using Schematron.](https://www.balisage.net/Proceedings/vol27/html/Bormans01/BalisageVol27-Bormans01.html)” Presented at Balisage: The Markup Conference 2022, Washington, DC, August 1 - 5, 2022. In Proceedings of Balisage: The Markup Conference 2022. Balisage Series on Markup Technologies, vol. 27 (2022). https://doi.org/10.4242/BalisageVol27.Bormans01.
  - Maus, David. “[Overview of Implementations](https://archive.xmlprague.cz/2022/files/presentations/Schematron.pdf)” In “[Schematron Users Meetup](https://www.xmlprague.cz/day3-2022/#sch)” at XML Prague 2022, Prague, Czech Republic, 2022.
   - Siegel, Erik. “[Schematron Query Language Binding](https://archive.xmlprague.cz/2022/files/presentations/schematron-qlb.pdf)” In “[Schematron Users Meetup](https://www.xmlprague.cz/day3-2022/#sch)” at XML Prague 2022, Prague, Czech Republic, 2022.
