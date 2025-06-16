@@ -32,6 +32,8 @@ Inspired by the sheer number of other 'awesome' lists out there.
    
  ### Presentations
  
+ - Sales, Andrew. "[XQS: A Native XQuery Schematron Implementation
+](https://markupuk.org/2023/webhelp/index.html#ar11.html)" In Markup UK 2023 Proceedings, 146-56. London, UK, 2023.
  - Bormans, Geert. “[Customisation of Akoma Ntoso using Schematron.](https://www.balisage.net/Proceedings/vol27/html/Bormans01/BalisageVol27-Bormans01.html)” Presented at Balisage: The Markup Conference 2022, Washington, DC, August 1 - 5, 2022. In Proceedings of Balisage: The Markup Conference 2022. Balisage Series on Markup Technologies, vol. 27 (2022). https://doi.org/10.4242/BalisageVol27.Bormans01.
  - Maus, David. “[Overview of Implementations](https://archive.xmlprague.cz/2022/files/presentations/Schematron.pdf)” In “[Schematron Users Meetup](https://www.xmlprague.cz/day3-2022/#sch)” at XML Prague 2022, Prague, Czech Republic, 2022.
   - Siegel, Erik. “[Schematron Query Language Binding](https://archive.xmlprague.cz/2022/files/presentations/schematron-qlb.pdf)” In “[Schematron Users Meetup](https://www.xmlprague.cz/day3-2022/#sch)” at XML Prague 2022, Prague, Czech Republic, 2022.
@@ -53,17 +55,16 @@ Inspired by the sheer number of other 'awesome' lists out there.
  - Nadolu, Octavian. “[Taking Schematron QuickFix To The Next
    Level.](https://markupuk.org/2019/webhelp/index.html#ar09.html)” In Markup UK 2019 Proceedings, 125–34. London, UK,
    2019.
- - Sales, Andrew. "[XQS: A Native XQuery Schematron Implementation
-](https://markupuk.org/2023/webhelp/index.html#ar11.html)" In Markup UK 2023 Proceedings, 146-56. London, UK, 2023.
 
- - *Add your Schematron book, paper, or presentation here*
+ - *Add your Schematron book, paper, or presentation here, most recent first*
 
 ## Software
 
 Implementations of Schematron:
 
- - [SchXslt](https://github.com/schxslt/schxslt) - An XSLT-based Schematron processor.
- - [ml-schematron](https://github.com/ndw/ML-Schematron) - A `schematron.xqy` module that will allow you to perform Schematron validation with MarkLogic Server 
+ - [SchXslt](https://codeberg.org/schxslt/schxslt) - An XSLT-based Schematron processor.
+ - [SchXslt2](https://codeberg.org/SchXslt/schxslt2) - A modern XSLT-based ISO Schematron to XSLT 3.0 transpiler
+ - [ml-schematron](https://github.com/ndw/ML-Schematron) - A `schematron.xqy` module that will allow you to perform Schematron validation with MarkLogic Server.
  - [ph-schematron](https://github.com/phax/ph-schematron) - Java library to validate XML documents according to Schematron rules, using 2 different engines - additionally you can validate Schematron itself. Ships with Maven plugins and an Ant task (since 4.3.0).
  - [schematron-basex](https://github.com/Schematron/schematron-basex) - XQuery module to use ISO Schematron in BaseX.
  - [schematron-exist](https://github.com/Schematron/schematron-exist) - XQuery module to use ISO Schematron in eXist.
