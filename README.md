@@ -31,8 +31,11 @@ Inspired by the sheer number of other 'awesome' lists out there.
    Online, October 1, 2002.
    
  ### Presentations
- 
+
+ - Maus, David. "[ISO Schematron: A feather duster to reach the corners that other schema languages cannot reach](https://doi.org/10.5281/zenodo.16019038)" Poster presented at the Hub of Computing and Data Science's Research Software Engineering Day, Hamburg, Germany, 2025.
  - Sales, Andrew. "[What's New in Schematron 4](https://andrewsales.com/schematron4/index.html)" In Schematron Users Meetup at Markup UK 2025. London, UK, 2025.
+ - Maus, David. "[SchXslt2 Schematron to XSLT 3.0 transpiler](https://dmaus.name/slides/schxslt2-2025.html)" Markup UK 2025. London, UK, 2025.
+ - Maus, David. "[ISO Schematron Conformance Tests](https://dmaus.name/slides/schematron-conformance-2025.html)" In Schematron Users Meetup at Markup UK 2025. London, UK, 2025.
  - Sales, Andrew. "[XQS: A Native XQuery Schematron Implementation](https://markupuk.org/2023/webhelp/index.html#ar11.html)" In Markup UK 2023 Proceedings, 146-56. London, UK, 2023.
  - Bormans, Geert. “[Customisation of Akoma Ntoso using Schematron.](https://www.balisage.net/Proceedings/vol27/html/Bormans01/BalisageVol27-Bormans01.html)” Presented at Balisage: The Markup Conference 2022, Washington, DC, August 1 - 5, 2022. In Proceedings of Balisage: The Markup Conference 2022. Balisage Series on Markup Technologies, vol. 27 (2022). https://doi.org/10.4242/BalisageVol27.Bormans01.
  - Maus, David. “[Overview of Implementations](https://archive.xmlprague.cz/2022/files/presentations/Schematron.pdf)” In “[Schematron Users Meetup](https://www.xmlprague.cz/day3-2022/#sch)” at XML Prague 2022, Prague, Czech Republic, 2022.
@@ -79,4 +82,5 @@ Implementations of Schematron:
  - [org.doctales.terminology](https://github.com/doctales/org.doctales.terminology) - DITA-OT plugin and authoring framework for terminology management, that generates Schematron termchecker rule sets for DITA ([Demo](https://doctales.github.io/samples/termchecker-dita/terminology-DITA-en-GB.sch)) and XLIFF ([Demo](https://doctales.github.io/samples/termchecker-xliff/terminology-XLIFF-en-GB.sch)) files from DITA `<termentry>` topics.
  - [XSLT Quality](https://github.com/mricaud/xslt-quality) - XSLT Quality checks your XSLT to see if it adheres to good or best practices.
  - [oscal-xproc3](https://github.com/usnistgov/oscal-xproc3/blob/main/testing/xproc3-house-rules.sch) - Enforces house style for XProc 3.0 pipelines.
+ - [Schematron Schematron](https://codeberg.org/dmaus/schematron-schematron) - A Schematron schema that checks XPath expressions in your Schematron.
  - *Add your Schematron application here*
