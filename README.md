@@ -74,6 +74,7 @@ Implementations of Schematron:
  - [schematron](https://github.com/Schematron/schematron) - "skeleton" XSLT implementation of ISO Schematron. No longer maintained.
  - [XQS](https://github.com/AndrewSales/XQS) - native XQuery implementation of ISO Schematron.
  - [pyschematron](https://github.com/robbert-harms/pyschematron) - library package for Schematron validation in Python.
+ - [node-schematron](https://github.com/wvbe/node-schematron) - Javascript implementation of Schematron. Supports XPath 3.1 (via [fontoxpath](https://www.npmjs.com/package/fontoxpath)) but not XSLT functions.
  - *Add your Schematron software here*
 
 ## Applications
