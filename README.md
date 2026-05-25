@@ -84,4 +84,5 @@ Implementations of Schematron:
  - [XSLT Quality](https://github.com/mricaud/xslt-quality) - XSLT Quality checks your XSLT to see if it adheres to good or best practices.
  - [oscal-xproc3](https://github.com/usnistgov/oscal-xproc3/blob/main/testing/xproc3-house-rules.sch) - Enforces house style for XProc 3.0 pipelines.
  - [Schematron Schematron](https://codeberg.org/dmaus/schematron-schematron) - A Schematron schema that checks XPath expressions in your Schematron.
+ - [validate-einvoice-action](https://github.com/hernaninverso/validate-einvoice-action) - GitHub Action that validates Peppol BIS, EN 16931, XRechnung, Factur-X and UBL e-invoices in CI using [Mustang](https://www.mustangproject.org/) and [phive](https://github.com/phax/phive) engines, with curated fix hints per rule code.
  - *Add your Schematron application here*
