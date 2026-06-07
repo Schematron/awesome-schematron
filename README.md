@@ -14,6 +14,7 @@ Inspired by the sheer number of other 'awesome' lists out there.
 
 ## Specifications
 
+ - [ISO Schematron 4th Edition](https://www.iso.org/standard/85625.html) - ISO/IEC 19757-3:2025 - Information technology - Document Schema Definition Languages (DSDL) - Part 3: Rule-based validation using Schematron. For sale from ISO or a standards reseller near you.
  - [ISO Schematron 3rd Edition](https://www.iso.org/standard/74515.html) - ISO/IEC 19757-3:2020 - Information technology - Document Schema Definition Languages (DSDL) - Part 3: Rule-based validation using Schematron. For sale from ISO or a standards reseller near you.
  - [ISO Schematron 2nd Edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/c055982_ISO_IEC_19757-3_2016.zip) - ISO/IEC 19757-3:2016 - Information technology - Document Schema Definition Languages (DSDL) - Part 3: Rule-based validation - Schematron. No longer available.
  - [ISO Schematron 1st Edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html) - ISO/IEC 19757-3:2006 - Information technology -- Document Schema Definition Language (DSDL) -- Part 3: Rule-based validation -- Schematron. No longer available.
@@ -23,6 +24,7 @@ Inspired by the sheer number of other 'awesome' lists out there.
 
 ### Books
 
+ - Siegel, Erik. “[Schematron 2025: A language for validating XML](https://xmlpress.net/publications/schematron-2025/)” Denver, CO, USA: XML Press, 2025.
  - Siegel, Erik. “[Schematron: A language for validating XML](https://xmlpress.net/publications/schematron/)” Denver, CO, USA: XML Press, 2022.
  - Hedler, Marko, Manuel Montero Pineda, and Nico Kutscherauer. “[Schematron: Effiziente Business Rules für
    XML-Dokumente.](https://schematron.info)” Heidelberg: dpunkt, 2011.
